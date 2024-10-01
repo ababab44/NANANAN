@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Explore Albania - Find Your Tour Guide</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Explore Albania</h1>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Tour Guides</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Discover Albania with the Best Tour Guides</h2>
+        <p>Find local tour guides to make your journey unforgettable.</p>
+        <button>Explore Now</button>
+    </section>
+
+    <section class="features">
+        <h2>Why Choose Us?</h2>
+        <div class="feature-box">
+            <h3>Verified Tour Guides</h3>
+            <p>All our guides are verified and trusted locals with deep knowledge of Albania.</p>
+        </div>
+        <div class="feature-box">
+            <h3>Simple Booking</h3>
+            <p>Easy and secure booking process with payments integrated.</p>
+        </div>
+        <div class="feature-box">
+            <h3>Explore Hidden Gems</h3>
+            <p>Discover hidden treasures and off-the-beaten-path adventures in Albania.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Explore Albania | All rights reserved.</p>
+    </footer>
+</body>
+</html>
